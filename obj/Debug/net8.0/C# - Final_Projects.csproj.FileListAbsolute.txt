@@ -12,3 +12,17 @@ D:\Self Study\05. .NET Back-end\C# - Final\C# - Final_Projects\obj\Debug\net8.0\
 D:\Self Study\05. .NET Back-end\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.pdb
 D:\Self Study\05. .NET Back-end\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.genruntimeconfig.cache
 D:\Self Study\05. .NET Back-end\C# - Final\C# - Final_Projects\obj\Debug\net8.0\ref\C# - Final_Projects.dll
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\bin\Debug\net8.0\C# - Final_Projects.exe
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\bin\Debug\net8.0\C# - Final_Projects.deps.json
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\bin\Debug\net8.0\C# - Final_Projects.runtimeconfig.json
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\bin\Debug\net8.0\C# - Final_Projects.dll
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\bin\Debug\net8.0\C# - Final_Projects.pdb
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.AssemblyInfoInputs.cache
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.AssemblyInfo.cs
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.csproj.CoreCompileInputs.cache
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.dll
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\refint\C# - Final_Projects.dll
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.pdb
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\C# - Final_Projects.genruntimeconfig.cache
+D:\Self Study\05. .NET Back-end\C#\C# - Final\C# - Final_Projects\obj\Debug\net8.0\ref\C# - Final_Projects.dll
